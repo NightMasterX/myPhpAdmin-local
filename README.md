@@ -5,4 +5,4 @@
 4 ->Last but not least, go to your browser and simply type ```localhost/phpmyadmin```<br>
 
 <br>You should be good to go! 😀
-This project will be regularly updated so please Star and Watch it!
+<br>This project will be regularly updated so please Star and Watch it!
